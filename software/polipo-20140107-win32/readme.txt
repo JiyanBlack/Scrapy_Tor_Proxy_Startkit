@@ -1,0 +1,1 @@
+run with ./polipo.exe -c config
